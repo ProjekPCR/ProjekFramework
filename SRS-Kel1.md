@@ -1,25 +1,4 @@
-<html>
-<body>
-<div align="right"><h1> Software Requirements Spesification</h1></div>
-
-<p align="right"><b>for </b><br>
-</p>
-
-<div align="right"><h1> Sistem Informasi Alumni SMAIT Al-Ittihad</h1></div>
-
-<p align="center"><b>Manajemen Administrasi Data Kependudukan Desa Lohbener <br>
-</b>
-<p align="center">Kelompok 1 <br>
- Hilmy Lazuardi            (1603099)<br>
- Ismatul Maula    (1603100)<br>
- jakaria       (1603101)<br><br><br>
-
-<p align="center"><b>Jurusan Teknik Informatika</b><br>
-<p align="center"><b>Politeknik Negeri Indramayu</b>
-<p align="center"><b>2018</b>
-</p>
-</body>
-</html>
+<img src="https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image/POLINDRA.png" width="250" height="250"/ >
 
 **BAB I Pendahuluan**
 ----------
