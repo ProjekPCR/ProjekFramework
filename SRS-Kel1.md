@@ -1,3 +1,4 @@
+![enter image description here][https://github.com/azmifa/ProjekFramework/blob/main/Diagram/Cover%20SRS%20Framework.png)
 **BAB I Pendahuluan**
 ----------
 1.1 Tujuan
