@@ -72,7 +72,7 @@ Sistem informasi alumni ini memiliki 2 user yaitu guru bk dan admin. Siswa mempu
  
 **2.1.3 Antarmuka Perangkat Keras**
 
-![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/antarmuka%20perangkat%20keras%202.png)
+![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/Diagram.jpeg)
 
 Antarmuka perangkat keras yang digunakan untuk mengoperasikan Perangkat Lunak Sistem Alumni SMAIT Al-Ittihad antara lain :
 
@@ -112,14 +112,14 @@ Tidak ada
    
 2.2 Spesifikasi Kebutuhan Fungsional
 ----------
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Use%20Case1.png)
+![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase2.jpeg)
    
 **2.2.1 Guru BK Masuk Ke Sistem**
 
 Use Case: Guru bk masuk ke sistem
 
 Diagram : 
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20login%20kepdes.png)
+![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase3.jpeg)
 
 Deskripsi singkat :
 Guru membuat akun terlebih dahulu agar dapat masuk ke sistem.
@@ -137,7 +137,7 @@ Xref: Bagian 3.2.1, Guru BK masuk ke sistem
 Use Case: Siswa masuk ke sistem
 
 Diagram: 
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20kepdes%20generate%20laporan.png)
+![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase4.jpeg)
 
 Deskripsi singkat :
 Siswa masuk ke sistem dengan mengisi form masuk.
@@ -155,7 +155,7 @@ Xref: Bagian 3.2.2, Siswa masuk ke sistem
 Use Case: Guru bk mengelola data alumni
 
 Diagram :
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20login.png)
+![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase5.jpeg)
 
 Deskripsi singkat :
 Guru bk dapat mengelola data alumni.
@@ -172,7 +172,7 @@ Xref: Bagian 3.2.3, Guru bk mengelola data alumni
 Use Case: Guru bk mengelola data pengguna
 
 Diagram:
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20admin%20kelola%20data2.png)
+![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase6.jpeg)
       
 Deskripsi singkat :
 Sistem akan menampilkan form pengguna dan guru bk dapat menambah dan mengedit pengguna sesuai kebutuhan.
@@ -189,7 +189,7 @@ Xref: Bagian 3.2.4, Mengelola data user
 Use Case: Melihat data alumni
 
 Diagram:
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20lihat%20data%20kependudukan.png)
+![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase7.jpeg)
 
 Deskripsi singkat :
 Sistem akan menampilkan data alumni dan siswa dapat melihat data alumni.
@@ -306,7 +306,7 @@ Logika struktur terdapat pada bagian 3.3.1
 **3.3.1 Logika Struktur Data**
 Struktur data logika pada Sistem Informasi Alumni SMAIT Al-Ittihad terdapat struktur database yang dijelaskan menggunakan ERD.
 
-![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/erd_proyek2.png)
+![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/ERD.jpeg)
 
 **Tabel Guru BK**
 
