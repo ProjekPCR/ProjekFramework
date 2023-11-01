@@ -79,7 +79,7 @@ Sistem informasi alumni ini memiliki 2 user yaitu guru bk dan admin. Siswa mempu
 |  |  |
 |--|--|
 | ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanMasuk.jpeg) Pada halaman login siswa diminta untuk mengisi username dan password.| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-Siswa/HalamanAngkatan.jpeg) Pada halaman ini nantinya akan ditampilkan data angkatan.|
-| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-Siswa/HalamanAlumni.jpeg) Pada halaman ini akan ditampilkan data-data alumni | |
+| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-Siswa/HalamanAlumni.jpeg) Pada halaman ini akan ditampilkan data-data alumni | 
 
 **2.1.3 Antarmuka Perangkat Keras**
 
