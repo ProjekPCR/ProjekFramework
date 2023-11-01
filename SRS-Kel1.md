@@ -77,7 +77,7 @@ Sistem informasi alumni ini memiliki 2 user yaitu guru bk dan admin. Siswa mempu
  **Mockup Siswa ( Website )**
 
 |  |  |
-|--|--|
+|--|
 | ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanMasuk.jpeg) Pada halaman login siswa diminta untuk mengisi username dan password.| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-Siswa/HalamanAngkatan.jpeg) Pada halaman ini nantinya akan ditampilkan data angkatan.|
 | ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-Siswa/HalamanAlumni.jpeg) Pada halaman ini akan ditampilkan data-data alumni | |
 
