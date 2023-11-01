@@ -65,7 +65,8 @@ Sistem informasi alumni ini memiliki 2 user yaitu guru bk dan admin. Siswa mempu
 
 |  |  |
 |--|--|
-| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanMasuk.jpeg) Pada halaman login admin diminta untuk mengisi username dan password.| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanAngkatan.jpeg) Pada halaman ini admin dapat melihat data angkatan.|
+| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanMasuk.jpeg) Pada halaman login admin diminta untuk mengisi username dan password.
+| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanAngkatan.jpeg) Pada halaman ini admin dapat melihat data angkatan.|
 | ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanTambahAlumni.jpeg) Pada halaman dashboard ada navigation bar kependudukan yang berisi dropdown angka kelahiran dan angka kematian
 | ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanEditAlumni.jpeg) Pada Halaman agama dapat menginputkan data agama penduduk|
 | ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanDataPengguna.jpeg) Pada Halaman pekerjaan dapat menginputkan data pekerjaan penduduk| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Warga.png) Pada Halaman warga dapat menginputkan data warga|
