@@ -55,7 +55,7 @@ Pada sistem informasi alumni ini akan menampilkan data alumni yang sudah diinput
 
 **2.1.1 Antarmuka Sistem**
 
-![enter image description here]([https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/antarmuka%20sistem1.png](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase1.jpeg))
+![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase1.jpeg)
 
 Sistem informasi alumni ini memiliki 2 user yaitu guru bk dan admin. Siswa mempunyai fungsi yaitu melakukan view dan mencari data alumni. Guru bk bertugas untuk mengelola data, supaya data bisa di akses oleh siswa.
 
@@ -65,7 +65,7 @@ Sistem informasi alumni ini memiliki 2 user yaitu guru bk dan admin. Siswa mempu
 
 |  |  |
 |--|--|
-| ![enter image description here]([https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Halaman%20Login.png](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanMasuk.jpeg)) Pada halaman login admin diminta untuk mengisi username dan password.| ![enter image description here]([https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Halaman%20Dashboard.png](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanAngkatan.jpeg)) Pada halaman ini admin dapat melihat data angkatan.|
+| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanMasuk.jpeg) Pada halaman login admin diminta untuk mengisi username dan password.| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanAngkatan.jpeg) Pada halaman ini admin dapat melihat data angkatan.|
 | ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Dropdone%20Kependudukan.png) Pada halaman dashboard ada navigation bar kependudukan yang berisi dropdown angka kelahiran dan angka kematian| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Input%20Agama.png) Pada Halaman agama dapat menginputkan data agama penduduk|
 | ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Input%20Pekerjaan.png) Pada Halaman pekerjaan dapat menginputkan data pekerjaan penduduk| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Warga.png) Pada Halaman warga dapat menginputkan data warga|
 | ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Input%20Pendidikan.png) Pada Halaman pendidikan dapat menginputkan data pendidikan penduduk| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Input%20Angka%20Kelahiran.png) Pada Halaman kelahiran dapat menginputkan data kelahiran penduduk|
