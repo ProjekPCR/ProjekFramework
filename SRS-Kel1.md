@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image/POLINDRA.png" width="250" height="250"/ >
+<img src="https://github.com/azmifa/ProjekFramework/blob/main/Cover%20SRS.jpeg" width="250" height="250"/ >
 </p>
 
 **BAB I Pendahuluan**
