@@ -1,4 +1,5 @@
 **BAB I Pendahuluan**
+----------
 1.1 Tujuan
 Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun "Sistem Informasi Alumni SMAIT Al-Ittihad Rumbai". Dokumen ini dibangun untuk memudahkan para guru SMAIT Al-Ittihad untuk melihat dan menyimpan data para alumni SMAIT Al-Ittihad sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "Sistem Informasi Alumni SMAIT Al-Ittihad Rumbai".
 
@@ -125,9 +126,9 @@ Guru membuat akun terlebih dahulu agar dapat masuk ke sistem.
 
 Deskripsi langkah-langkah :
 1. Guru masuk ke sistem dengan username dan password
-Sistem melakukan validasi masuk sistem
-Bila sukses sistem akan mengarahkan ke halaman beranda
-Bila gagal sistem akan menampilkan peringatan
+2. Sistem melakukan validasi masuk sistem
+3. Bila sukses sistem akan mengarahkan ke halaman beranda
+4. Bila gagal sistem akan menampilkan peringatan
 
 Xref: Bagian 3.2.1, Guru BK masuk ke sistem
    
@@ -143,9 +144,9 @@ Siswa masuk ke sistem dengan mengisi form masuk.
 
 Deskripsi langkah-langkah :
 1. Siswa masuk ke sistem dengan username dan password
-Sistem melakukan validasi masuk sistem
-Bila sukses sistem akan mengarahkan ke halaman beranda
-Bila gagal sistem akan menampilkan peringatan
+2. Sistem melakukan validasi masuk sistem
+3. Bila sukses sistem akan mengarahkan ke halaman beranda
+4. Bila gagal sistem akan menampilkan peringatan
 
 Xref: Bagian 3.2.2, Siswa masuk ke sistem
 
@@ -157,7 +158,7 @@ Diagram :
 ![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20login.png)
 
 Deskripsi singkat :
-Guru BK dapat mengelola data alumni.
+Guru bk dapat mengelola data alumni.
 
 Deskripsi langkah-langkah :
 1. Sistem menampilkan data Alumni
@@ -178,7 +179,7 @@ Sistem akan menampilkan form pengguna dan guru bk dapat menambah dan mengedit pe
 
 Deskripsi langkah-langkah :
 1. Guru bk mengklik menu data pengguna, lalu guru bk dapat memilih tombol tambah, edit, dan hapus untuk melakukan pengelolaan terhadap data pengguna.
-Sistem akan menyimpan data user ke database dan menampilkan data pengguna yang dipilih.
+2. Sistem akan menyimpan data user ke database dan menampilkan data pengguna yang dipilih.
 Guru bk bisa menghapus hak akses pengguna.
 
 Xref: Bagian 3.2.4, Mengelola data user
@@ -195,7 +196,7 @@ Sistem akan menampilkan data alumni dan siswa dapat melihat data alumni.
 
 Deskripsi langkah-langkah :
 1. Siswa berhasil melakukan login
-Sistem menampilkan halaman beranda yang berisi data alumni.
+2. Sistem menampilkan halaman beranda yang berisi data alumni.
 
 Xref: Bagian 3.2.5, Melihat data alumni
    
