@@ -1,5 +1,3 @@
-<p align="center"><b>Version 1.7 </b><br>
-<p align="center">28 Maret 2018</b>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image/POLINDRA.png" width="250" height="250"/ >
 </p>
