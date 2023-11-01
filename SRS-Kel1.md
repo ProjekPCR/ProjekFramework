@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/azmifa/ProjekFramework/blob/main/Cover%20SRS.jpeg" width="250" height="250"/ >
+<img src="https://github.com/azmifa/ProjekFramework/blob/main/Cover%20SRS.jpeg" width="1920" height="1080"/ >
 </p>
 
 **BAB I Pendahuluan**
