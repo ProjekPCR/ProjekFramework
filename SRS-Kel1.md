@@ -353,7 +353,7 @@ Struktur data logika pada Sistem Informasi Alumni SMAIT Al-Ittihad terdapat stru
 | email | varchar | berisikan email pengguna |
 | password | varchar | berisikan password pengguna |
 
-**Job Desc Kel 1**
-Alfiya : Membuat SRS, Use case diagram
-Alvin : Mendesain prototype web, membuat SRS
+**Job Desc Kel 1** <br>
+Alfiya : Membuat SRS, Use case diagram <br>
+Alvin : Mendesain prototype web, membuat SRS <br>
 Azmi : Mengedit SRS, membuat diagram dan ERD
