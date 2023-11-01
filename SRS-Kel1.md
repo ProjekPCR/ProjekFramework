@@ -5,7 +5,7 @@
 <p align="right"><b>for </b><br>
 </p>
 
-<p> align="right"><h1> Sistem Informasi Alumni SMAIT Al-Ittihad</h1> </p>
+<div align="right"><h1> Sistem Informasi Alumni SMAIT Al-Ittihad</h1></div>
 
 <p align="center"><b>Manajemen Administrasi Data Kependudukan Desa Lohbener <br>
 </b>
