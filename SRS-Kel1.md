@@ -1,12 +1,15 @@
 **BAB I Pendahuluan**
 ----------
 1.1 Tujuan
+----------
 Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun "Sistem Informasi Alumni SMAIT Al-Ittihad Rumbai". Dokumen ini dibangun untuk memudahkan para guru SMAIT Al-Ittihad untuk melihat dan menyimpan data para alumni SMAIT Al-Ittihad sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "Sistem Informasi Alumni SMAIT Al-Ittihad Rumbai".
 
 1.2 Lingkup
+----------
 Sistem Informasi Alumni SMAIT Al-Ittihad Rumbai merupakan sistem yang kami bangun untuk mempermudah guru SMAIT Al-Ittihad Rumbai dalam melihat informasi para alumni dan memudahkan dalam menampilkan data-datanya.
 
 1.3 Akronim, Singkatan, Definisi
+----------
 | Istilah | Definisi |
 | ------ | ------ |
 | SRS |Software Requirement Specification|
