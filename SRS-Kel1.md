@@ -1,6 +1,6 @@
 <html>
 <body>
-<p align="right"><h1> Software Requirements Spesification</h1></p>
+<div align="right"><h1> Software Requirements Spesification</h1></div>
 
 <p align="right"><b>Version 1.7 </b><br>
 <p align="right">28 Maret 2018</b>
