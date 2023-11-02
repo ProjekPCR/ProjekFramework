@@ -365,3 +365,8 @@ Struktur data logika pada Sistem Informasi Alumni SMAIT Al-Ittihad terdapat stru
 Alfiya : Membuat SRS, Use case diagram <br>
 Alvin : Mendesain prototype web, membuat SRS <br>
 Azmi : Mengedit SRS, membuat diagram dan ERD
+
+**Dokumentasi** <br>
+<p align="center">
+<img src="https://github.com/azmifa/ProjekFramework/blob/main/Dokumentasi%20Kel%201.png" width="595" height="834"/ >
+</p>
