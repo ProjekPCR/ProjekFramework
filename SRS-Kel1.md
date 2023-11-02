@@ -362,7 +362,7 @@ Struktur data logika pada Sistem Informasi Alumni SMAIT Al-Ittihad terdapat stru
 | password | varchar | berisikan password pengguna |
 
 <p align="center">
-<img src="https://github.com/azmifa/ProjekFramework/blob/main/Dokumentasi%20Kel%201.png" width="595" height="834"/ >
+<img src="https://github.com/azmifa/ProjekFramework/blob/main/Dokumentasi%20Kel%201.png" width="4032" height="3024"/ >
 </p>
 
 **Job Desc Kel 1** <br>
