@@ -368,5 +368,5 @@ Azmi : Mengedit SRS, membuat diagram dan ERD
 
 **Dokumentasi** <br>
 <p align="center">
-<img src="https://github.com/azmifa/ProjekFramework/blob/main/Dokumentasi%20Kel%201.png" width="595" height="834"/ >
+<img src="https://github.com/azmifa/ProjekFramework/blob/main/Dokumentasi%20Kel%201.png" width="720" height="835"/ >
 </p>
