@@ -35,25 +35,22 @@ Bab selanjutnya yaitu menjelaskan sistem yang diterapkan pada web. Menjelaskan g
 
 **BAB II Gambaran umum**
 ----------
-Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari. Dalam studi kasus ini kami menganalisis kebutuhan suatu sekolah di daerah Pekanbaru, Riau tepatnya di kecamatan Rumbai. Kasus yang kami peroleh yaitu perancangan Sistem Informasi Alumni. Maka dari itu kami sebagai software developer merancang sebuah sistem sesuai dengan kebutuhan SMA Al-Ittihad dengan menerapkan Sistem Informasi yang dapat melakukan pencatatan terhadap data alumni sehingga memudahkan guru bk dalam menginputkan data-data alumni dan siswa dapat melihat data yang sudah diinputkan. Software yang kami buat ini adalah berbasis website. Sistem yang kami buat ini digunakan untuk guru bk sebagai admin dan juga siswa sebagai pengguna. Berikut merupakan fungsi utama pada admin yaitu :
-   - Input Nama Siswa
-   - Input Perguruan Tinggi
-   - Input Jurusan
-   - Input Provinsi/Kota
-   - Input Jalur
-   - Input Tahun
+Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari. Dalam studi kasus ini kami menganalisis kebutuhan suatu sekolah di daerah Pekanbaru, Riau tepatnya di kecamatan Rumbai. Kasus yang kami peroleh yaitu perancangan Sistem Informasi Alumni. Maka dari itu kami sebagai software developer merancang sebuah sistem sesuai dengan kebutuhan SMA Al-Ittihad dengan menerapkan Sistem Informasi yang dapat melakukan pencatatan terhadap data alumni sehingga memudahkan guru bk dalam menginputkan data-data alumni dan pengguna dapat melihat data yang sudah diinputkan. Software yang kami buat ini adalah berbasis website dimana sistem ini digunakan untuk guru BK (admin) dan juga pengguna. Berikut merupakan fungsi pada admin yaitu :
+   - Mengelola perkuliahan alumni
+   - Mengelola pekerjaan alumni
+   - Mengelola lowongan pekerjaan
+   - Mengelola guru
+   - Mengelola pengguna
      
-   Berikut ini fungsi user dalam bentuk grafik :
-   - View Nama Siswa
-   - View Perguruan Tinggi
-   - View Jurusan
-   - View Provinsi/Kota
-   - View Jalur
-   - View Tahun
+   Berikut ini fungsi pengguna :
+   - View perkuliahan alumni
+   - View pekerjaan alumni
+   - View lowongan pekerjaan
+   - View guru
 
 2.1   Perspektif produk
 ----------
-Sistem Informasi Alumni SMAIT Al-Ittihad adalah sebuah sistem administrasi data yang diaplikasikan pada website. Terdapat 2 jenis yaitu guru BK, dan siswa. Pengolahan data di kelola oleh guru BK dan siswa hanya dapat melihat dan mencari informasi pada website.
+Sistem Informasi Alumni SMAIT Al-Ittihad adalah sebuah sistem administrasi data yang diaplikasikan pada website. Terdapat 2 jenis yaitu guru BK dan pengguna. Pengolahan data di kelola oleh guru BK dan pengguna hanya dapat melihat informasi pada website.
 
 Pada sistem informasi alumni ini akan menampilkan data alumni yang sudah diinputkan oleh guru bk.
 
@@ -61,7 +58,7 @@ Pada sistem informasi alumni ini akan menampilkan data alumni yang sudah diinput
 
 ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase1.jpeg)
 
-Sistem informasi alumni ini memiliki 2 user yaitu guru bk dan admin. Siswa mempunyai fungsi yaitu melakukan view dan mencari data alumni. Guru bk bertugas untuk mengelola data, supaya data bisa di akses oleh siswa.
+Sistem informasi alumni ini memiliki 2 user yaitu guru bk dan pengguna. Pengguna mempunyai fungsi yaitu melakukan view data alumni. Guru bk bertugas untuk mengelola data, supaya data bisa di akses oleh pengguna.
 
 **2.1.2 Antarmuka Pengguna**
 
@@ -96,7 +93,7 @@ Tidak ada
 
 **2.1.5 Antarmuka Komunikasi**
 
-Antarmuka komunikasi yang digunakan untuk mengoperasikan Perangkat Lunak Sistem Alumni SMAIT Al-Ittihad antara lain :
+Antarmuka komunikasi yang digunakan untuk mengoperasikan perangkat lunak Sistem Informasi Alumni SMAIT Al-Ittihad antara lain :
 1. Kabel Lan UTP RJ45
 2. Modem
 3. Wifi
