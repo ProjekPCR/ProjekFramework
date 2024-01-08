@@ -52,13 +52,13 @@ Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah sat
 ----------
 Sistem Informasi Alumni SMAIT Al-Ittihad adalah sebuah sistem administrasi data yang diaplikasikan pada website. Terdapat 2 jenis yaitu guru BK dan pengguna. Pengolahan data di kelola oleh guru BK dan pengguna hanya dapat melihat informasi pada website.
 
-Pada sistem informasi alumni ini akan menampilkan data alumni yang sudah diinputkan oleh guru bk.
+Pada sistem informasi alumni ini akan menampilkan data alumni yang sudah diinputkan oleh guru BK.
 
 **2.1.1 Antarmuka Sistem**
 
 ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase1.jpeg)
 
-Sistem informasi alumni ini memiliki 2 user yaitu guru bk dan pengguna. Pengguna mempunyai fungsi yaitu melakukan view data alumni. Guru bk bertugas untuk mengelola data, supaya data bisa di akses oleh pengguna.
+Sistem informasi alumni ini memiliki 2 user yaitu guru BK dan pengguna. Pengguna mempunyai fungsi yaitu melakukan view data alumni. Guru BK bertugas untuk mengelola data, supaya data bisa di akses oleh pengguna.
 
 **2.1.2 Antarmuka Pengguna**
 
