@@ -124,13 +124,13 @@ Tidak ada
    
 **2.2.1 Guru BK Masuk Ke Sistem**
 
-Use Case: Guru bk masuk ke sistem
+Use Case: Guru BK masuk ke sistem
 
 Diagram : 
 ![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase3.jpeg)
 
 Deskripsi singkat :
-Guru membuat akun terlebih dahulu agar dapat masuk ke sistem.
+Guru BK membuat akun terlebih dahulu agar dapat masuk ke sistem.
 
 Deskripsi langkah-langkah :
 1. Guru masuk ke sistem dengan username dan password
@@ -140,59 +140,57 @@ Deskripsi langkah-langkah :
 
 Xref: Bagian 3.2.1, Guru BK masuk ke sistem
    
-**2.2.2 Siswa Masuk Ke Sistem**
+**2.2.2 Pengguna Masuk Ke Sistem**
 
-Use Case: Siswa masuk ke sistem
+Use Case: Pengguna masuk ke sistem
 
 Diagram: 
 ![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase4.jpeg)
 
 Deskripsi singkat :
-Siswa masuk ke sistem dengan mengisi form masuk.
+Pengguna langsung masuk ke sistem tanpa login.
 
 Deskripsi langkah-langkah :
-1. Siswa masuk ke sistem dengan username dan password
-2. Sistem melakukan validasi masuk sistem
-3. Bila sukses sistem akan mengarahkan ke halaman beranda
-4. Bila gagal sistem akan menampilkan peringatan
+1. Pengguna masuk ke sistem tanpa melakukan login
+2. Sistem akan mengarahkan ke halaman beranda
 
-Xref: Bagian 3.2.2, Siswa masuk ke sistem
+Xref: Bagian 3.2.2, Pengguna masuk ke sistem
 
 **2.2.3 Guru BK Mengelola Data Alumni**
 
-Use Case: Guru bk mengelola data alumni
+Use Case: Guru BK mengelola data alumni
 
 Diagram :
 ![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase5.jpeg)
 
 Deskripsi singkat :
-Guru bk dapat mengelola data alumni.
+Guru BK dapat mengelola data alumni.
 
 Deskripsi langkah-langkah :
 1. Sistem menampilkan data Alumni
-Guru BK dapat memilih tombol tambah data, edit, dan hapus untuk melakukan pengelolaan data
-Sistem akan menampilkan data alumni terbaru jika guru bk melakukan pengelolaan data.
+2. Guru BK dapat memilih tombol tambah data, edit, dan hapus untuk melakukan pengelolaan data
+3. Sistem akan menampilkan data alumni terbaru jika guru BK melakukan pengelolaan data.
 
-Xref: Bagian 3.2.3, Guru bk mengelola data alumni
+Xref: Bagian 3.2.3, Guru BK mengelola data alumni
       
 **2.2.4 Guru BK Mengelola Data Pengguna**
 
-Use Case: Guru bk mengelola data pengguna
+Use Case: Guru BK mengelola data pengguna
 
 Diagram:
 ![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase6.jpeg)
       
 Deskripsi singkat :
-Sistem akan menampilkan form pengguna dan guru bk dapat menambah dan mengedit pengguna sesuai kebutuhan.
+Sistem akan menampilkan tabel pengguna dan guru BK dapat menambah dan mengedit pengguna sesuai kebutuhan.
 
 Deskripsi langkah-langkah :
-1. Guru bk mengklik menu data pengguna, lalu guru bk dapat memilih tombol tambah, edit, dan hapus untuk melakukan pengelolaan terhadap data pengguna.
-2. Sistem akan menyimpan data user ke database dan menampilkan data pengguna yang dipilih.
-Guru bk bisa menghapus hak akses pengguna.
+1. Guru BK mengklik menu data pengguna, lalu guru BK dapat memilih tombol tambah, edit, dan hapus untuk melakukan pengelolaan terhadap data pengguna.
+2. Sistem akan menyimpan data pengguna ke database dan menampilkan data pengguna yang dipilih.
+3. Guru BK bisa menghapus hak akses pengguna.
 
-Xref: Bagian 3.2.4, Mengelola data user
+Xref: Bagian 3.2.4, Mengelola data pengguna
 
-**2.2.5 Siswa Melihat Data Alumni**
+**2.2.5 Pengguna Melihat Data Alumni**
 
 Use Case: Melihat data alumni
 
@@ -200,10 +198,10 @@ Diagram:
 ![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase7.jpeg)
 
 Deskripsi singkat :
-Sistem akan menampilkan data alumni dan siswa dapat melihat data alumni.
+Sistem akan menampilkan data alumni dan pengguna dapat melihat data alumni.
 
 Deskripsi langkah-langkah :
-1. Siswa berhasil melakukan login
+1. Pengguna berhasil melakukan login
 2. Sistem menampilkan halaman beranda yang berisi data alumni.
 
 Xref: Bagian 3.2.5, Melihat data alumni
@@ -215,7 +213,7 @@ Xref: Bagian 3.2.5, Melihat data alumni
    | No | Deskripsi |
    | ------ | ------ |
    | 1 | Semua interface dan fungsi menggunakan Bahasa Indonesia |
-   | 2 | Perangkat Lunak dapat dipakai di semua platofrm  OS ( guru bk dan siswa ) 
+   | 2 | Perangkat lunak dapat dipakai di semua platofrm  OS ( guru BK dan pengguna) 
  
 2.4   Karakteristik Pengguna
 ----------
@@ -228,7 +226,7 @@ Karakteristik pengguna dari perangkat lunak ini adalah pengguna langsung berinte
 
 2.6   Asumsi-Asumsi
 ----------
-Maksimal penginputan id atau memasukkan kode pada aplikasi ini adalah 9999, lebih dari itu program akan muncul peringatan"Anda telah melebihi batas maksimum".
+Maksimal penginputan id atau memasukkan kode pada aplikasi ini adalah 9999, lebih dari itu program akan muncul peringatan "Anda telah melebihi batas maksimum".
 
 2.7   Kebutuhan Penyeimbang
 ----------
@@ -248,8 +246,8 @@ Logika struktur terdapat pada bagian 3.3.1
 
 |  |  |
 |--|--|
-| Nama Fungsi | Guru bk masuk ke sistem |
-| Xref | Bagian 2.2.1, Guru bk masuk ke sistem |
+| Nama Fungsi | Guru BK masuk ke sistem |
+| Xref | Bagian 2.2.1, Guru BK masuk ke sistem |
 | Trigger | Membuka website Sistem Alumni SMAIT Al-Ittihad |
 | Precondition | Halaman masuk |
 | Basic Path | 1. Guru bk mengisi form masuk dengan username dan password <br> 2. Guru bk mengklik tombol login <br> 3. Sistem melakukan validasi masuk <br> 4. Bila sukses sistem akan mengarahkan ke halaman beranda <br> 5. Bila gagal sistem akan menampilkan peringatan |
@@ -257,28 +255,28 @@ Logika struktur terdapat pada bagian 3.3.1
 | Post Condition | Guru BK dapat masuk ke sistem dan mengakses Sistem Alumni SMAIT Al-Ittihad |
 | Exception Push | Username dan password salah |
       
-**3.2.2 Siswa Masuk Ke Sistem**
+**3.2.2 Pengguna Masuk Ke Sistem**
 
 |  |  |
 |--|--|
-| Nama Fungsi | Siswa masuk ke sistem |
+| Nama Fungsi | Pengguna masuk ke sistem |
 | Xref | Bagian 2.2.2, Siswa masuk ke sistem |
 | Trigger | Membuka website Sistem Alumni SMAIT Al-Ittihad |
 | Precondition | Halaman masuk |
-| Basic Path | 1. Siswa mengisi form login dengan username/email dan password <br> 2. Siswa mengklik tombol login <br> 3. Sistem melakukan validasi login <br> 4. Bila sukses sistem akan mengarahkan ke halaman beranda <br> 5.Bila gagal sistem akan menampilkan peringatan. |
+| Basic Path | 1. Pengguna mengisi form login dengan username/email dan password <br> 2. Pengguna mengklik tombol login <br> 3. Sistem melakukan validasi login <br> 4. Bila sukses sistem akan mengarahkan ke halaman beranda <br> 5.Bila gagal sistem akan menampilkan peringatan. |
 | Alternative | Tidak ada |
-| Post Condition | Siswa dapat login dan mengakses Sistem Alumni SMAIT Al-Ittihad |
+| Post Condition | Pengguna dapat login dan mengakses Sistem Alumni SMAIT Al-Ittihad |
 | Exception Push | Username/email dan password salah |
    
 **3.2.3 Guru BK Mengelola Data Alumni**
 
 |  |  |
 |--|--|
-| Nama Fungsi | Guru bk mengelola data alumni |
+| Nama Fungsi | Guru BK mengelola data alumni |
 | Xref | Bagian 2.2.3, Guru bk mengelola data alumnni |
 | Trigger | Membuka website Sistem Alumni SMAIT Al-Ittihad |
 | Precondition | Halaman data alumni |
-| Basic Path | 1. Guru bk berada di halaman data alumni <br> 2. Guru bk dapat mengklik tombol edit, tambah, dan hapus <br> 3. Sistem akan menampilkan halaman formulir pengeditan jika guru bk memilih tombol edit <br> 4. Sistem akan melakukan penghapusan data alumni jika guru bk memilih tombol hapus <br> 5. Sistem akan menampilkan halaman formulir insert data alumni jika guru BK memilih tombol tambah. |
+| Basic Path | 1. Guru BK berada di halaman data alumni <br> 2. Guru BK dapat mengklik tombol edit, tambah, dan hapus <br> 3. Sistem akan menampilkan halaman formulir pengeditan jika guru BK memilih tombol edit <br> 4. Sistem akan melakukan penghapusan data alumni jika guru BK memilih tombol hapus <br> 5. Sistem akan menampilkan halaman formulir insert data alumni jika guru BK memilih tombol tambah. |
 | Alternative | Tidak ada |
 | Post Condition | Guru BK dapat melakukan pengelolaan terhadap data alumni. |
 | Exception Push | - |
@@ -287,26 +285,26 @@ Logika struktur terdapat pada bagian 3.3.1
 
 |  |  |
 |--|--|
-| Nama Fungsi | Guru bk mengelola data pengguna |
-| Xref | Bagian 2.2.4, Guru bk mengelola data pengguna |
+| Nama Fungsi | Guru BK mengelola data pengguna |
+| Xref | Bagian 2.2.4, Guru BK mengelola data pengguna |
 | Trigger | Membuka website Sistem Alumni SMAIT Al-Ittihad |
-| Precondition | Halaman data user |
-| Basic Path | 1. Guru BK berada di halaman data pengguna <br> 2. Guru bk dapat mengklik tombol edit, tambah, dan hapus <br> 3. Sistem akan menampilkan halaman formulir pengeditan jika guru bk memilih tombol edit <br> 4. Sistem akan melakukan penghapusan data user jika guru BK memilih tombol hapus <br> 5. Sistem akan menampilkan halaman formulir insert data user jika guru BK memilih tombol tambah. |
+| Precondition | Halaman data pengguna |
+| Basic Path | 1. Guru BK berada di halaman data pengguna <br> 2. Guru BK dapat mengklik tombol edit, tambah, dan hapus <br> 3. Sistem akan menampilkan halaman formulir pengeditan jika guru BK memilih tombol edit <br> 4. Sistem akan melakukan penghapusan data pengguna jika guru BK memilih tombol hapus <br> 5. Sistem akan menampilkan halaman formulir insert data user jika guru BK memilih tombol tambah. |
 | Alternative | Tidak ada |
-| Post Condition | Guru bk dapat melakukan pengelolaan terhadap data pengguna |
+| Post Condition | Guru BK dapat melakukan pengelolaan terhadap data pengguna |
 | Exception Push | - |
    
-**3.2.5 Siswa Melihat Data Alumni**
+**3.2.5 Pengguna Melihat Data Alumni**
 
 |  |  |
 |--|--|
-| Nama Fungsi | Siswa melihat data alumni |
-| Xref | Bagian 2.2.5, Siswa melihat data Alumni |
+| Nama Fungsi | Pengguna melihat data alumni |
+| Xref | Bagian 2.2.5, Pengguna melihat data Alumni |
 | Trigger | Membuka website Sistem Alumni SMAIT Al-Ittihad |
 | Precondition | Halaman data alumni |
-| Basic Path | 1. Siswa berada di halaman data alumni <br> 2. Sistem akan menampilkan halaman yang menampilkan data alumni. |
+| Basic Path | 1. Pengguna berada di halaman data alumni <br> 2. Sistem akan menampilkan halaman yang menampilkan data alumni. |
 | Alternative | Tidak ada |
-| Post Condition | Siswa dapat melihat data alumni berdasarkan angkatan yang dipilihnya sebelumnya |
+| Post Condition | Pengguna dapat melihat data alumni berdasarkan angkatan yang dipilihnya sebelumnya |
 | Exception Push | - |
    
 3.3 Struktur Detail Kebutuhan Non-Fungsional
@@ -316,47 +314,52 @@ Struktur data logika pada Sistem Informasi Alumni SMAIT Al-Ittihad terdapat stru
 
 ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/ERD.jpeg)
 
-**Tabel Guru BK**
+**Tabel Data User**
 
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
-| nip | int | berisikan nomor induk pegawai (guru) |
+| id | varchar | berisikan id pengguna |
+| nama | varchar | berisikan nama pengguna |
 | username | varchar | berisikan username |
-| nama | varchar | berisikan nama guru bk |
-| email | varchar | berisikan email guru bk untuk mendaftar |
-| password | varchar | berisikan password guru bk |
+| email | varchar | berisikan email pengguna untuk mendaftar |
+| password | varchar | berisikan password pengguna |
 
-**Tabel Data Alumni**
+**Tabel Data Perkuliahan Alumni**
 
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
-| id | char | berisikan id alumni |
+| id | varchar | berisikan id perkuliahan alumni |
 | nama | varchar | berisikan nama alumni |
+| foto | varchar | berisikan foto alumni |
+| angkatan | int | berisikan angkatan alumni |
 | perguruan_tinggi | varchar | berisikan nama perguruan tinggi |
-| jurusan | varchar | berisikan jurusan|
+| jurusan | varchar | berisikan jurusan |
 | provinsi | varchar | berisikan nama provinsi |
 | jalur | varchar | berisikan nama jalur masuk perguruan tinggi |
 | tahun | int | berisikan tahun tamat alumni |
 
-**Tabel Siswa**
+**Tabel Data Pekerjaan Alumni**
 
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
-| nis | int | berisikan nomor induk siswa |
-| nama | varchar | berisikan nama siswa |
-| username | varchar | berisikan username siswa |
-| email | varchar | berisikan email siswa |
-| password | varchar | berisikan password siswa |
+| id | varchar | berisikan id pekerjaan alumni |
+| nama | varchar | berisikan nama alumni |
+| foto | varchar | berisikan foto alumni |
+| angkatan | int | berisikan angkatan alumni |
+| tempat_kerja | varchar | berisikan tempat kerja alumni |
+| jabatan | varchar | berisikan jabatan alumni |
 
-**Tabel Data Pengguna**
+**Tabel Data Lowongan Pekerjaan**
 
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
-| nip/nis | int | berisikan nomor induk |
-| nama | varchar | berisikan nama pengguna |
-| username | varchar | berisikan username |
-| email | varchar | berisikan email pengguna |
-| password | varchar | berisikan password pengguna |
+| id | varchar | berisikan id lowongan pekerjaan |
+| nama_perusahaan | varchar | berisikan nama perusahaan |
+| nama_pekerjaan | varchar | berisikan nama pekerjaan |
+| posisi_pekerjaan | varchar | berisikan posisi pekerjaan |
+| kontak | varchar | berisikan kontak |
+| tanggal_pendaftaran | date | berisikan tanggal pendaftaran |
+| tanggal_penutupan | date | berisikan tanggal penutupan |
 
 **Job Desc Kel 1** <br>
 Alfiya : Membuat SRS, Use case diagram <br>
