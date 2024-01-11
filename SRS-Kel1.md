@@ -314,15 +314,17 @@ Struktur data logika pada Sistem Informasi Alumni SMAIT Al-Ittihad terdapat stru
 
 ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/ERD.jpeg)
 
-**Tabel Data User**
+**Tabel Data Siswa**
 
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
-| id | varchar | berisikan id pengguna |
-| nama | varchar | berisikan nama pengguna |
-| username | varchar | berisikan username |
-| email | varchar | berisikan email pengguna untuk mendaftar |
-| password | varchar | berisikan password pengguna |
+| id | varchar | berisikan id siswa |
+| nama | varchar | berisikan nama siswa |
+| foto | varchar | berisikan foto siswa |
+| nim | varchar | berisikan nim siswa |
+| angkatan | int | berisikan angkatan siswa |
+| kelas | varchar | berisikan kelas siswa |
+| jurusan | varchar | berisikan jurusan siswa |
 
 **Tabel Data Perkuliahan Alumni**
 
@@ -333,6 +335,7 @@ Struktur data logika pada Sistem Informasi Alumni SMAIT Al-Ittihad terdapat stru
 | foto | varchar | berisikan foto alumni |
 | angkatan | int | berisikan angkatan alumni |
 | perguruan_tinggi | varchar | berisikan nama perguruan tinggi |
+| kategori | varchar | berisikan kategori |
 | jurusan | varchar | berisikan jurusan |
 | provinsi | varchar | berisikan nama provinsi |
 | jalur | varchar | berisikan nama jalur masuk perguruan tinggi |
@@ -360,6 +363,26 @@ Struktur data logika pada Sistem Informasi Alumni SMAIT Al-Ittihad terdapat stru
 | kontak | varchar | berisikan kontak |
 | tanggal_pendaftaran | date | berisikan tanggal pendaftaran |
 | tanggal_penutupan | date | berisikan tanggal penutupan |
+
+**Tabel Data Guru**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id | varchar | berisikan id guru |
+| nama | varchar | berisikan nama guru |
+| foto | varchar | berisikan foto guru |
+| email | varchar | berisikan email guru |
+| deskripsi | text | berisikan deskripsi |
+
+**Tabel Data User**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id | varchar | berisikan id pengguna |
+| nama | varchar | berisikan nama pengguna |
+| username | varchar | berisikan username |
+| email | varchar | berisikan email pengguna untuk mendaftar |
+| password | varchar | berisikan password pengguna |
 
 **Job Desc Kel 1** <br>
 Alfiya : Membuat SRS, Use case diagram <br>
