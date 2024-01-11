@@ -77,8 +77,8 @@ Sistem informasi alumni ini memiliki 2 user yaitu guru BK dan pengguna. Pengguna
 
 |  |  |
 |--|--|
-| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-GuruBK/HalamanMasuk.jpeg) Pada halaman login siswa diminta untuk mengisi username dan password.| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-Siswa/HalamanAngkatan.jpeg) Pada halaman ini nantinya akan ditampilkan data angkatan.|
-| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Prototype-Siswa/HalamanAlumni.jpeg) Pada halaman ini akan ditampilkan data-data alumni | |
+| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/384732d16eeebfadc088cf4fe98b466104ffe723/Prototype-Pengguna/HalamanBeranda.png) Pada halaman login siswa diminta untuk mengisi username dan password.| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/384732d16eeebfadc088cf4fe98b466104ffe723/Prototype-Pengguna/HalamanPerkuliahanAlumni.png) Pada halaman ini nantinya akan ditampilkan data angkatan.|
+| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/384732d16eeebfadc088cf4fe98b466104ffe723/Prototype-Pengguna/HalamanPekerjaanAlumni.png) Pada halaman ini akan ditampilkan data-data alumni.| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/384732d16eeebfadc088cf4fe98b466104ffe723/Prototype-Pengguna/HalamanGuru.png) Pada halaman ini nantinya akan ditampilkan data angkatan.| ![enter image description here](https://github.com/azmifa/ProjekFramework/blob/384732d16eeebfadc088cf4fe98b466104ffe723/Prototype-Pengguna/HalamanLoker.png) Pada halaman ini nantinya akan ditampilkan data angkatan.| | |
 
 **2.1.3 Antarmuka Perangkat Keras**
 
