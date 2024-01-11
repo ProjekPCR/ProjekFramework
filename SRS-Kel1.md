@@ -252,7 +252,7 @@ Logika struktur terdapat pada bagian 3.3.1
 | Xref | Bagian 2.2.1, Guru BK masuk ke sistem |
 | Trigger | Membuka website Sistem Alumni SMAIT Al-Ittihad |
 | Precondition | Halaman masuk |
-| Basic Path | 1. Guru bk mengisi form masuk dengan username dan password <br> 2. Guru bk mengklik tombol login <br> 3. Sistem melakukan validasi masuk <br> 4. Bila sukses sistem akan mengarahkan ke halaman beranda <br> 5. Bila gagal sistem akan menampilkan peringatan |
+| Basic Path | 1. Guru BK mengisi form masuk dengan username dan password <br> 2. Guru BK mengklik tombol masuk <br> 3. Sistem melakukan validasi masuk <br> 4. Bila sukses sistem akan mengarahkan ke halaman beranda <br> 5. Bila gagal sistem akan menampilkan peringatan |
 | Alternative | Tidak ada |
 | Post Condition | Guru BK dapat masuk ke sistem dan mengakses Sistem Alumni SMAIT Al-Ittihad |
 | Exception Push | Username dan password salah |
@@ -265,10 +265,10 @@ Logika struktur terdapat pada bagian 3.3.1
 | Xref | Bagian 2.2.2, Siswa masuk ke sistem |
 | Trigger | Membuka website Sistem Alumni SMAIT Al-Ittihad |
 | Precondition | Halaman masuk |
-| Basic Path | 1. Pengguna mengisi form login dengan username/email dan password <br> 2. Pengguna mengklik tombol login <br> 3. Sistem melakukan validasi login <br> 4. Bila sukses sistem akan mengarahkan ke halaman beranda <br> 5.Bila gagal sistem akan menampilkan peringatan. |
+| Basic Path | 1. Pengguna langsung masuk ke sistem tanpa mengisi form login|
 | Alternative | Tidak ada |
-| Post Condition | Pengguna dapat login dan mengakses Sistem Alumni SMAIT Al-Ittihad |
-| Exception Push | Username/email dan password salah |
+| Post Condition | Pengguna dapat masuk dan mengakses Sistem Alumni SMAIT Al-Ittihad |
+| Exception Push | - |
    
 **3.2.3 Guru BK Mengelola Data Alumni**
 
