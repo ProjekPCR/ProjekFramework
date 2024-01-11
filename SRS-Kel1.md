@@ -58,7 +58,7 @@ Pada sistem informasi alumni ini akan menampilkan data alumni yang sudah diinput
 
 **2.1.1 Antarmuka Sistem**
 
-![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase1.jpeg)
+![enter image description here](https://github.com/azmifa/ProjekFramework/blob/797c09982f1d5d94900c3409f8f1257a3f8a88d9/Diagram/UseCaseSistem.png)
 
 Sistem informasi alumni ini memiliki 2 user yaitu guru BK dan pengguna. Pengguna mempunyai fungsi yaitu melakukan view data alumni. Guru BK bertugas untuk mengelola data, supaya data bisa di akses oleh pengguna.
 
