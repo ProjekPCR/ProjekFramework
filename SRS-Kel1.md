@@ -171,7 +171,7 @@ Guru BK dapat mengelola data alumni.
 Deskripsi langkah-langkah :
 1. Sistem menampilkan data Alumni
 2. Guru BK dapat memilih tombol tambah data, edit, dan hapus untuk melakukan pengelolaan data
-3. Sistem akan menampilkan data alumni terbaru jika guru BK melakukan pengelolaan data.
+3. Sistem akan menampilkan data alumni terbaru jika guru BK melakukan pengubahan data.
 
 Xref: Bagian 3.2.3, Guru BK mengelola data alumni
       
