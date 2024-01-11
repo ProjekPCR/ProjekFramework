@@ -376,7 +376,7 @@ Struktur data logika pada Sistem Informasi Alumni SMAIT Al-Ittihad terdapat stru
 | email | varchar | berisikan email guru |
 | deskripsi | text | berisikan deskripsi |
 
-**Tabel Data User**
+**Tabel Data User (Pengguna)**
 
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
