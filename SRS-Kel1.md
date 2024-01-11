@@ -129,7 +129,7 @@ Tidak ada
 Use Case: Guru BK masuk ke sistem
 
 Diagram : 
-![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase3.jpeg)
+![](https://github.com/azmifa/ProjekFramework/blob/cd69e7461ad694c81e749a362fe3fe1a6e36d8a5/Diagram/UseCaseGuruBKMasuk.png)
 
 Deskripsi singkat :
 Guru BK membuat akun terlebih dahulu agar dapat masuk ke sistem.
@@ -147,7 +147,7 @@ Xref: Bagian 3.2.1, Guru BK masuk ke sistem
 Use Case: Pengguna masuk ke sistem
 
 Diagram: 
-![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase4.jpeg)
+![](https://github.com/azmifa/ProjekFramework/blob/cd69e7461ad694c81e749a362fe3fe1a6e36d8a5/Diagram/UseCasePenggunaMasuk.png)
 
 Deskripsi singkat :
 Pengguna langsung masuk ke sistem tanpa mengisi form login.
@@ -163,7 +163,7 @@ Xref: Bagian 3.2.2, Pengguna masuk ke sistem
 Use Case: Guru BK mengelola data alumni
 
 Diagram :
-![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase5.jpeg)
+![](https://github.com/azmifa/ProjekFramework/blob/cd69e7461ad694c81e749a362fe3fe1a6e36d8a5/Diagram/UseCaseGuruBKMengelolaData.png)
 
 Deskripsi singkat :
 Guru BK dapat mengelola data alumni.
@@ -180,7 +180,7 @@ Xref: Bagian 3.2.3, Guru BK mengelola data alumni
 Use Case: Guru BK mengelola data pengguna
 
 Diagram:
-![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase6.jpeg)
+![](https://github.com/azmifa/ProjekFramework/blob/cd69e7461ad694c81e749a362fe3fe1a6e36d8a5/Diagram/UseCaseGuruBKMengelolaPengguna.png)
       
 Deskripsi singkat :
 Sistem akan menampilkan tabel pengguna dan guru BK dapat menambah dan mengedit pengguna sesuai kebutuhan.
@@ -197,7 +197,7 @@ Xref: Bagian 3.2.4, Mengelola data pengguna
 Use Case: Melihat data alumni
 
 Diagram:
-![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase7.jpeg)
+![](https://github.com/azmifa/ProjekFramework/blob/cd69e7461ad694c81e749a362fe3fe1a6e36d8a5/Diagram/UseCasePenggunaMelihatDataAlumni.png)
 
 Deskripsi singkat :
 Sistem akan menampilkan data alumni dan pengguna dapat melihat data alumni.
@@ -244,7 +244,7 @@ Salah satu cara mengakses website ini yaitu dengan hak akses yang diberikan oleh
 ----------
 Logika struktur terdapat pada bagian 3.3.1
       
-**3.2.1 Kepala desa Login**
+**3.2.1 Guru BK Masuk Ke Sistem**
 
 |  |  |
 |--|--|
