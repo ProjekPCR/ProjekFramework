@@ -122,7 +122,7 @@ Tidak ada
    
 2.2 Spesifikasi Kebutuhan Fungsional
 ----------
-![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase2.jpeg)
+![](https://github.com/azmifa/ProjekFramework/blob/01ef504a6b5f71838cb72f2d12e946769f018358/Diagram/UseCaseManajemen.png)
    
 **2.2.1 Guru BK Masuk Ke Sistem**
 
