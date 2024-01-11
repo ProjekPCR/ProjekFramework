@@ -150,7 +150,7 @@ Diagram:
 ![](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/UseCase4.jpeg)
 
 Deskripsi singkat :
-Pengguna langsung masuk ke sistem tanpa login.
+Pengguna langsung masuk ke sistem tanpa mengisi form login.
 
 Deskripsi langkah-langkah :
 1. Pengguna masuk ke sistem tanpa melakukan login
