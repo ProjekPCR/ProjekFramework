@@ -314,7 +314,7 @@ Logika struktur terdapat pada bagian 3.3.1
 **3.3.1 Logika Struktur Data**
 Struktur data logika pada Sistem Informasi Alumni SMAIT Al-Ittihad terdapat struktur database yang dijelaskan menggunakan ERD.
 
-![enter image description here](https://github.com/azmifa/ProjekFramework/blob/main/Diagram/ERD.jpeg)
+![enter image description here](https://github.com/azmifa/ProjekFramework/blob/b51abd6fa668ac5da518bf9cbb7f0bc7112f99b6/Diagram/SRS-ERD.drawio.png)
 
 **Tabel Data Siswa**
 
