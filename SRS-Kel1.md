@@ -36,6 +36,7 @@ Bab selanjutnya yaitu menjelaskan sistem yang diterapkan pada web. Menjelaskan g
 **BAB II Gambaran umum**
 ----------
 Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari. Dalam studi kasus ini kami menganalisis kebutuhan suatu sekolah di daerah Pekanbaru, Riau tepatnya di kecamatan Rumbai. Kasus yang kami peroleh yaitu perancangan Sistem Informasi Alumni. Maka dari itu kami sebagai software developer merancang sebuah sistem sesuai dengan kebutuhan SMA Al-Ittihad dengan menerapkan Sistem Informasi yang dapat melakukan pencatatan terhadap data alumni sehingga memudahkan guru bk dalam menginputkan data-data alumni dan pengguna dapat melihat data yang sudah diinputkan. Software yang kami buat ini adalah berbasis website dimana sistem ini digunakan untuk guru BK (admin) dan juga pengguna. Berikut merupakan fungsi pada admin yaitu :
+   - Mengelola siswa
    - Mengelola perkuliahan alumni
    - Mengelola pekerjaan alumni
    - Mengelola lowongan pekerjaan
@@ -43,6 +44,7 @@ Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah sat
    - Mengelola pengguna
      
    Berikut ini fungsi pengguna :
+   - View siswa
    - View perkuliahan alumni
    - View pekerjaan alumni
    - View lowongan pekerjaan
