@@ -238,7 +238,7 @@ BAB III Requirement specification
 ----------
 3.1 Persyaratan Antarmuka Eksternal
 ----------
-Salah satu cara mengakses website ini yaitu dengan hak akses yang diberikan oleh guru BK, login melalui website ini dengan mencantumkan username kemudian sistem akan mencocokkan username dan password. Setelah login berhasil guru BK dapat melihat data-data dari alumni SMAIT Al-Ittihad.
+Salah satu cara mengakses website ini yaitu dengan hak akses yang diberikan oleh guru BK dengan masuk ke sistem tanpa mengisi form login. Setelah masuk ke sistem, pengguna dapat melihat data-data dari alumni SMAIT Al-Ittihad. 
       
 3.2 Functional Requirement
 ----------
